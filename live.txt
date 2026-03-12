@@ -17,7 +17,7 @@ cctv14,http://183.185.59.201:9003/hls/15/index.m3u8
 cctv15,http://183.185.59.201:9003/hls/16/index.m3u8
 cctv16,http://183.185.59.201:9003/hls/17/index.m3u8
 cctv17,http://183.185.59.201:9003/hls/18/index.m3u8
-卫视#genre#
+卫视,#genre#
 山西卫视,http://183.185.59.201:9003/hls/19/index.m3u8
 北京卫视,http://183.185.59.201:9003/hls/20/index.m3u8
 安徽卫视,http://183.185.59.201:9003/hls/21/index.m3u8
@@ -45,4 +45,4 @@ cctv17,http://183.185.59.201:9003/hls/18/index.m3u8
 深圳卫视,http://183.185.59.201:9003/hls/43/index.m3u8
 四川卫视,http://183.185.59.201:9003/hls/44/index.m3u8
 天津卫视,http://183.185.59.201:9003/hls/45/index.m3u8
-港澳台#genre#
+港澳台,#genre#
