@@ -50,3 +50,5 @@ cctv17,http://183.185.59.201:9003/hls/18/index.m3u8
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
+tvbs,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+tvbs,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
